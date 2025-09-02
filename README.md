@@ -1,22 +1,20 @@
-👋 Hi, I’m @avaditi1234.
+👋 Hi, I’m **@avaditi1234**
 
-👀 I’m interested in Problem Solving, Web Development.
+👀 I’m interested in **Problem Solving, Data Analytics, Frontend & Backend Development**.
 
-🌱 I’m currently doing B. Tech. in Computer Science and Engineering.
+🌱 I’m currently pursuing **B.Tech in Computer Science and Engineering**.
 
-Greetings, I'm Aditi, and a passionate problem solver and web developer who is always looking for new ways to solve complex problems.
-Embracing new technologies and pushing the boundaries of web development.🚀💡
-If you discover my project intriguing, I kindly request that you consider starring🌟 my repository. 
-Even a single star has the potential to brighten someone's day and demonstrate appreciation for the work put in.
-Your support would be invaluable. Thank you! 🙏
+💡 Greetings, I'm Aditi — a passionate **problem solver, aspiring data analyst, and web developer** who loves exploring new technologies and building impactful solutions. I enjoy working with **Excel, Power BI, SQL, and DAX** for analytics, and with **HTML, CSS, JavaScript** for frontend development.
 
-I'm thrilled to meet new people and look forward to engaging in meaningful conversations with you!
-Hi, I'll be happy to meet you more! 😊
+🚀 Always pushing boundaries in **web development** and **data-driven decision-making**, I’m continuously learning and growing.
 
-Things that I'm currently working on:
+✨ If you find my projects useful, consider giving them a ⭐ — your support motivates me to keep improving!
 
--> Data Structures and Algorithms
+📊 **Current Focus Areas:**
 
--> Back-end Development 
+* Data Analytics (Excel, Power BI, SQL, Data Visualization)
+* Frontend Development (HTML, CSS, JavaScript)
+* Data Structures & Algorithms
+* Backend Development & Personal Projects
 
--> Some Personal Projects
+🤝 I’m excited to connect, collaborate, and engage in meaningful conversations

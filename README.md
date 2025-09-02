@@ -15,5 +15,5 @@
 * Data Analytics (Excel, Power BI, SQL, Data Visualization)
 * Frontend Development (HTML, CSS, JavaScript)
 * Data Structures & Algorithms
-* 
+
 🤝 I’m excited to connect, collaborate, and engage in meaningful conversations
